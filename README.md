@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spyder82
-- 👀 I’m interested in python, applied math and simulations 
-- 🌱 I’m currently learning python, ml and dl 
+- 👀 I’m interested in Julia, Scientific Coding, Applied Math and simulations 
+- 🌱 I’m love learning math and always in the state of a student 
 - 💞️ I’m looking to collaborate on solving problems via math models 
 - 📫 How to reach me to.nithinv@gmail.com
 
